@@ -3,7 +3,9 @@ In this project, I developed a University Management System using Java which dea
 
 
 Technologies Used: Core Java (Swing & AWT)
+
 Database Used: MySQL
+
 IDE used: Netbeans
 
 
